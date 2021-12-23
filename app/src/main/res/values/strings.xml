@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackstackFragger</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="details_text">Does the Pope bless in the woods?</string>
+</resources>
